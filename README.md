@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224220092
+# Name: SESHAN J
+# Date: 08/03/2026
 
 
 # AIM:
@@ -41,7 +41,7 @@ Specifying the context and requirements of a system
 
 
 
-
+<img width="1029" height="931" alt="image" src="https://github.com/user-attachments/assets/aa1af999-cd17-4d52-ab33-60c89cea104d" />
 
 
 
@@ -61,12 +61,19 @@ Create detailed charts that…
 
 
 
+<img width="1343" height="951" alt="image" src="https://github.com/user-attachments/assets/8a1434f6-647e-49f2-863f-5d6bba8567ae" />
+
+
+
 # COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+
+<img width="1025" height="611" alt="image" src="https://github.com/user-attachments/assets/04b6106d-e91e-4f86-a18f-27933b23ca43" />
 
 
 
@@ -80,8 +87,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
-
-
+<img width="833" height="729" alt="image" src="https://github.com/user-attachments/assets/7238d57d-3352-4e64-a0c3-82502462b305" />
 
 
 
@@ -98,6 +104,8 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+
+<img width="540" height="870" alt="image" src="https://github.com/user-attachments/assets/a5006f56-b7fd-41ea-88d8-e9006ce54dc0" />
 
 
 
@@ -120,6 +128,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1212" height="891" alt="image" src="https://github.com/user-attachments/assets/0f2b9f00-30dd-43bb-8c1b-900c410162c8" />
 
 
 
